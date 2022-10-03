@@ -1,8 +1,10 @@
-# Livro de receitas 
+# Livro de receitas :woman_cook:
 
-Olá! Bem-vindo ao nosso livro de receitas
+
+Olá! Bem-vindo ao meu livro de receitas
 
 
 
 - Strogonoff de frango :chicken:
 - Pavê
+- Bolo de cenoura :cake:
